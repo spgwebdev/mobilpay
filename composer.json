@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.1",
-        "illuminate/support": "5.*",
+        "illuminate/support": "6.0",
         "omnipay/common": "^3@beta",
 	"php-http/guzzle6-adapter" : "^1.1",
         "business-mastery/omnipay-mobilpay": "dev-omnipay_3"
